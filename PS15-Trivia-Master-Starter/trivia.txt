@@ -1,0 +1,682 @@
+Trivia Question: How many colors are there in the rainbow?
+Answer: 7
+
+Trivia Question: How many planets are there in the solar system?
+Answer: 8
+
+Trivia Question: What color is a ruby?
+Answer: Red
+
+Trivia Question: What do caterpillars turn into?
+Answer: Butterflies
+
+Trivia Question: What do you call a baby lion?
+Answer: A cub
+
+Trivia Question: What do bees make?
+Answer: Honey
+
+Trivia Question: What is it called when birds fly to warmer climates for the winter?
+Answer: Migration
+
+Trivia Question: How many legs does a spider have?
+Answer: 8
+
+Trivia Question: What is the fastest land animal?
+Answer: Cheetah
+
+Trivia Question: How many teeth does a human have?
+Answer: 32
+
+Trivia Question: How many toes does a human have?
+Answer: 10
+
+Trivia Question: What do you call a baby goat?
+Answer: A kid
+
+Trivia Question: What temperature does water freeze at (in degrees Farenheit)?
+Answer: 32
+
+Trivia Question: What word refers to animals with a backbone?
+Answer: vertebrates
+
+Trivia Question: What is a group of crows called?
+Answer: A murder
+
+Trivia Question: What is a group of lions called?
+Answer: A pride
+
+Trivia Question: What is a human’s average temperature (in degrees Farenheit)?
+Answer: 98.6
+
+Trivia Question: What is the nearest planet to the Sun?
+Answer: Mercury
+
+Trivia Question: How many inches are in a foot?
+Answer: 12
+
+Trivia Question: How many feet are in a yard?
+Answer: 3
+
+Trivia Question: What kind of shape is a stop sign?
+Answer: An octagon
+
+Trivia Question: How many sides does a pentagon have?
+Answer: 5
+
+Trivia Question: What comes after a million, billion, & trillion?
+Answer: Quadrillion
+
+Trivia Question: How many zeros are in a million?
+Answer: 6
+
+Trivia Question: What is the top number of a fraction called?
+Answer: numerator
+
+Trivia Question: What is the bottom number of a fraction called?
+Answer: denominator
+
+Trivia Question: How many degrees are in a right angle?
+Answer: 90
+
+Trivia Question: How many pints are in a gallon?
+Answer: 8
+
+Trivia Question: How many pints are in a quart?
+Answer: 2
+
+Trivia Question: If a car is traveling at 65 mph, how many miles would it travel in 6 hours?
+Answer: 390
+
+Trivia Question: How many arms does an octopus have?
+Answer: 8
+
+Trivia Question: What kind of mollusk holds a pearl in its shell?
+Answer: An oyster
+
+Trivia Question: What largely creates the Earth’s tides through gravitational pull?
+Answer: The Moon
+
+Trivia Question: How many arms does a starfish have?
+Answer: 5
+
+Trivia Question: Which sea animal has tentacles that sting?
+Answer: Jellyfish
+
+Trivia Question: What is the longest bone in the human body?
+Answer: Femur
+
+Trivia Question: How many bones are in the human body?
+Answer: 206
+
+Trivia Question: What is the smallest bone in the human body?
+Answer: The stapes
+
+Trivia Question: How many ribs are in the human body?
+Answer: 12
+
+Trivia Question: How many phases does the Moon have?
+Answer: 8
+
+Trivia Question: How many days does it take the Moon to orbit the Earth?
+Answer: 27
+
+Trivia Question: What is the name for the holes on the Moon’s surface?
+Answer: Craters
+
+Trivia Question: Which bird can learn to mimic human speech?
+Answer: Parrots
+
+Trivia Question: What bird lives in Antarctica and cannot fly?
+Answer: Penguin
+
+Trivia Question: What allows birds to fly?
+Answer: Their wings
+
+Trivia Question: How many edges does a cube have?
+Answer: 12
+
+Trivia Question: What kind of tree do acorns grow on?
+Answer: Oak
+
+Trivia Question: What is a female elephant called?
+Answer: A cow
+
+Trivia Question: What color is given to the second full moon of the month?
+Answer: Blue
+
+Trivia Question: A lunar eclipse occurs when the Earth is between the Moon and what else?
+Answer: The sun
+
+Trivia Question: Are birds warm-blooded?
+Answer: Yes
+
+Trivia Question: What is the largest bird in the world?
+Answer: Ostrich
+
+Trivia Question: What is the most common species of bird found in the world?
+Answer: Chicken
+
+Trivia Question: True or false, hummingbirds can fly backward.
+Answer: True
+
+Trivia Question: Which body parts continue to grow throughout your entire life?
+Answer: ears and nose
+
+Trivia Question: The left side of your body is controlled by which side of your brain?
+Answer: The right side
+
+
+Trivia Question: Which cat is the largest member of the cat family?
+Answer: Tiger
+
+Trivia Question: Frogs begin life as what?
+Answer: Tadpoles
+
+Trivia Question: What is the hottest planet in our solar system?
+Answer: Venus
+
+Trivia Question: What is a dog’s most highly developed sense?
+Answer: Smell
+
+Trivia Question: True or False, dogs can only see in black & white.
+Answer: False
+
+Trivia Question: What is the most common training command taught to dogs?
+Answer: Sit
+
+Trivia Question: Which dog breed has a black dog?
+Answer: Chow chow
+
+Trivia Question: True or false, Dalmatians are born with spots.
+Answer: False
+
+Trivia Question: Teeth form part of the skeletal system, but do they count as bones?
+Answer: No
+
+Trivia Question: Do snakes have eyelids?
+Answer: No
+
+Trivia Question: What do snakes smell with?
+Answer: Their tongue
+
+Trivia Question: How many Earths could fit inside the sun?
+Answer: 1 million
+
+Trivia Question: Which fruit does Spongebob live in?
+Answer: Pineapple
+
+Trivia Question: Which princess lived with seven dwarfs?
+Answer: Snow White
+
+
+Trivia Question: Who lives in Neverland?
+Answer: Peter Pan
+
+Trivia Question: What is Winnie the Poo’s favorite treat?
+Answer: Honey
+
+
+Trivia Question: What kind of fish is Nemo from Finding Nemo?
+Answer: A Clownfish
+
+Trivia Question: How many bases are on a baseball field?
+Answer: 4
+
+Trivia Question: Which princess fell in love with a beast?
+Answer: Princess Belle
+
+Trivia Question: Which TV network hosts The Teen Choice Awards?
+Answer: Nickelodeon
+
+Trivia Question: Who is the villain in The Little Mermaid?
+Answer: Ursula
+
+Trivia Question: What television series cartoon dog says, “Ruh Roh!”?
+Answer: Scooby-Doo
+
+
+Trivia Question: What color is the sky?
+Answer: Blue
+
+Trivia Question: How many pounds of food can one person eat in a year?
+Answer: 2000
+
+Trivia Question: How many books are in the Harry Potter series?
+Answer: 7
+
+Trivia Question: What company makes iPads and iPhones?
+Answer: Apple
+
+Trivia Question: Whose catchphrase is “to infinity and beyond”?
+Answer: Buzz Lightyear
+
+
+Trivia Question: What is Shrek’s wife’s name?
+Answer: Fiona
+
+Trivia Question: The Stanley Cup is awarded to which sport?
+Answer: Hockey
+
+Trivia Question: What does the acronym RBI mean in baseball?
+Answer: Runs Batted In
+
+Trivia Question: What was the baby lion’s name in The Lion King?
+Answer: Simba
+
+Trivia Question: What is Mike’s last name in Monsters, Inc.?
+Answer: Wazowski
+
+Trivia Question: Where did Harry Potter go to school?
+Answer: Hogwarts
+
+Trivia Question: Katniss was the main character in what movie?
+Answer: The Hunger Games
+
+Trivia Question: What did the lion want most in The Wizard of Oz?
+Answer: Courage
+
+Trivia Question: What does Mario jump on after completing a level?
+Answer: A flagpole
+
+Trivia Question: What is Buddy the Elf’s brother’s name?
+Answer: Michael
+
+Trivia Question: What weakens Superman?
+Answer: Kryptonite
+
+Trivia Question: What is the shape of a baseball field?
+Answer: A diamond
+
+Trivia Question: What does the score of “love” equal in tennis?
+Answer: 0
+
+Trivia Question: True or False: A birdie is one stroke over par?
+Answer: False
+
+Trivia Question: How points do you score for a touchdown in football?
+Answer: 6
+
+Trivia Question: How many basketball players are on the court during a basketball game (including both teams)?
+Answer: 10
+
+Trivia Question: What’s Andy’s last name in Toy Story?
+Answer: Davis
+
+Trivia Question: Which actor plays the voice of Woody in Toy Story?
+Answer: Tom Hanks
+
+Trivia Question: What is the name of Andy’s evil neighbor in Toy Story?
+Answer: Sid
+
+Trivia Question: Baloo sings which song in the movie Jungle Book?
+Answer: Bare Necessities
+
+Trivia Question: What is the name of the van the crew drives in Scooby-Doo?
+Answer: The Mystery Machine
+
+Trivia Question: How many movies are there in the Toy Story movie series?
+Answer: 4
+
+Trivia Question: What color sweater does Velma wear in Scooby-Doo?
+Answer: Orange
+
+Trivia Question: What type of dog is Scooby-Doo?
+Answer: Great Dane
+
+Trivia Question: What is the name of the child from Jungle Book?
+Answer: Mowgli
+
+Trivia Question: True or False, Mowgli from Jungle Book was raised by wolves?
+Answer: True
+
+Trivia Question: What kind of drink does James Bond ask to be “shaken, not stirred”?
+Answer: Vodka Martini
+
+Trivia Question: What car manufacturer is James Bond renowned for driving in James Bond movies?
+Answer: Aston Martins
+
+Trivia Question: Who created James Bond and wrote the original novels?
+Answer: Ian Flemming
+
+Trivia Question: What kind of cat is Garfield?
+Answer: Tabby cat
+
+Trivia Question: What kind of birds are famous for saying “mine” in Finding Nemo?
+Answer: Seagull
+
+Trivia Question: In which game do you receive $200 when you pass “GO”?
+Answer: Monopoly
+
+Trivia Question: How many cards does each player get in the card game “Go Fish”?
+Answer: 5
+
+Trivia Question: What is the name of Barbie’s male companion?
+Answer: Ken
+
+Trivia Question: What is the name of Han Solo’s ship in Star Wars?
+Answer: Millennium Falcon
+
+Trivia Question: What is the famous weapon used by Jedi Knights in Star Wars?
+Answer: Light Saber
+
+Trivia Question: What planet is home to Chewbacca and the Wookiees in Star Wars?
+Answer: Kashyyyk
+
+Trivia Question: Whose famous line is “Luke, I am your father”?
+Answer: Darth Vader
+
+Trivia Question: Which actor played Spider-Man in Spider-Man: Homecoming?
+Answer: Tom Holland
+
+Trivia Question: What is Batman’s real name?
+Answer: Bruce Wayne
+
+Trivia Question: Who is Spider-Man’s crush?
+Answer: Mary Jane Watson
+
+Trivia Question: Which actor plays Ironman in the latest Ironman movies?
+Answer: Robert Downey Jr.
+
+Trivia Question: Hugh Jackman plays which character in the X-men movies?
+Answer: Wolverine
+
+Trivia Question: What is the name of the group in Scooby-Doo?
+Answer: Mystery Inc.
+
+Trivia Question: Who is Spongebob’s next-door neighbor?
+Answer: Squidward 
+
+Trivia Question: Who is Squidward’s arch-nemesis in Spongebob Squarepants?
+Answer: Squilliam
+
+Trivia Question: Which chipmunk from Alvin and the Chipmunks wears a blue sweater?
+Answer: Simon
+
+Trivia Question: Peter Pan is the captain of which group of boys?
+Answer: The Lost Boys
+
+Trivia Question: How many stepsisters does Cinderella have?
+Answer: 2
+
+Trivia Question: Who wrote the Harry Potter series?
+Answer: J.K. Rowling
+
+Trivia Question: What does Shaggy say when he’s scared in Scooby-Doo?
+Answer: Zoinks
+
+Trivia Question: What does Velma say when she discovers a clue in Scooby-Doo?
+Answer: Jinkies
+
+Trivia Question: What are the names of Timmy Turner’s fairy godparents in The Fairly OddParents?
+Answer: Cosmo and Wanda
+
+Trivia Question: Who sings the song “Bad Guy”?
+Answer: Billie Eilish
+
+Trivia Question: How old was Justin Bieber when he became famous?
+Answer: 13
+
+Trivia Question: What was Justin Bieber’s first song?
+Answer: One Time
+
+Trivia Question: Which singer based his first four albums off of math symbols?
+Answer: Ed Sheeran
+
+Trivia Question: Who sings the song “Lover”?
+Answer: Taylor Swift
+
+Trivia Question: Who sings the song “Lose You to Love Me”?
+Answer: Selena Gomez
+
+Trivia Question: What color is Scooby-Doo’s collar?
+Answer: Blue
+
+Trivia Question: Which singer was featured on Lil Nas X’s “Old Town Road”?
+Answer: Billy Ray Cyrus
+
+Trivia Question: Which famous singer also starred on the old Nickelodeon show Victorious?
+Answer: Ariana Grande
+
+Trivia Question: Who is the villain in 101 Dalmatians?
+Answer: Cruella De Vil
+
+Trivia Question: Who is known to be the “King” of Rock n’ Roll?
+Answer: Elvis Presley
+
+Trivia Question: True or False: NFL Super Bowl referees also get a Super Bowl ring.
+Answer: True
+
+Trivia Question: What is the name of Charlie Brown’s dog?
+Answer: Snoopy
+
+Trivia Question: What kind of dog is Snoopy?
+Answer: Beagle
+
+Trivia Question: What do the aliens worship as a god in Toy Story?
+Answer: The Claw
+
+Trivia Question: What is the capital of America?
+Answer: Washington, D.C.
+
+Trivia Question: Who was the first President of the United States?
+Answer: George Washington
+
+Trivia Question: How many states are in the U.S.A.?
+Answer: 50
+
+Trivia Question: How many stars are on the American flag?
+Answer: 50 
+
+Trivia Question: How many stipes are on the American flag?
+Answer: 13
+
+Trivia Question: Who discovered electricity?
+Answer: Benjamin Franklin
+
+Trivia Question: How many presidents are on Mount Rushmore?
+Answer: 4
+
+Trivia Question: Which ocean is the saltiest in the world?
+Answer: Atlantic
+
+Trivia Question: Which state is Mount Rushmore in?
+Answer: South Dakota
+
+Trivia Question: In what state would you find the Golden Gate Bridge?
+Answer: California
+
+Trivia Question: How many states make up the contiguous United States?
+Answer: 48
+
+Trivia Question: How many continents are there in the world?
+Answer: 7
+
+Trivia Question: When you’re standing on the South Pole, any other direction you point is in which direction?
+Answer: North
+
+Trivia Question: Who invented the telephone?
+Answer: Alexander Graham Bell
+
+Trivia Question: Where was the first colony founded?
+Answer: Virginia
+
+Trivia Question: What color are the stars on the American flag?
+Answer: White
+
+Trivia Question: Where is the Great Pyramid of Giza?
+Answer: Egypt
+
+Trivia Question: What is the largest ocean in the world?
+Answer: Pacific
+
+Trivia Question: What is the smallest ocean in the world?
+Answer: Arctic
+
+Trivia Question: Which ocean is the deepest in the world?
+Answer: Pacific
+
+Trivia Question: Who was the first man to land on the Moon?
+Answer: Neil Armstrong
+
+Trivia Question: What is the Earth’s largest continent?
+Answer: Asia
+
+Trivia Question: What is the largest mountain in the world?
+Answer: Mt. Everest
+
+Trivia Question: Which continent is the flattest?
+Answer: Australia
+
+Trivia Question: Who was elected as America’s first African American president?
+Answer: Barrack Obama
+
+Trivia Question: Which president is on the $20 bill?
+Answer: Andrew Jackson
+
+Trivia Question: When was America discovered?
+Answer: 1492
+
+Trivia Question: In which state is the Hollywood sign located?
+Answer: California
+
+Trivia Question: In which city is the Empire State Building?
+Answer: New York City
+
+Trivia Question: How many floors are in the Empire State Building?
+Answer: 102
+
+Trivia Question: Which U.S. state is a peninsula?
+Answer: Florida
+
+Trivia Question: Which U.S. state has a bear on their flag?
+Answer: California
+
+Trivia Question: What city is the capital of France?
+Answer: Paris
+
+Trivia Question: Which continent is the most populated in the world?
+Answer: Asia
+
+Trivia Question: What is the largest U.S. state by land area?
+Answer: Alaska
+
+Trivia Question: In which U.S. city is Wall Street located?
+Answer: New York City
+
+Trivia Question: Where is the Grand Canyon located?
+Answer: Arizona
+
+Trivia Question: Which country gifted America the Statue of Liberty?
+Answer: France
+
+Trivia Question: When you’re standing on the North Pole, any other direction you point is in which direction?
+Answer: South
+
+Trivia Question: Is Antarctica located on the North Pole or the South Pole?
+Answer: The South Pole
+
+Trivia Question: The North Pole is located in which ocean?
+Answer: Arctic
+
+Trivia Question: What is Amelia Earhart known for?
+Answer: Flying
+
+Trivia Question: Who was the first woman to fly in space?
+Answer: Sally Ride
+
+Trivia Question: Which U.S. Apollo was the first to land on the Moon?
+Answer: 11
+
+Trivia Question: Which city was divided by a wall from 1961 to 1989?
+Answer: Berlin
+
+Trivia Question: How many missions have landed on the Moon?
+Answer: 6
+
+Trivia Question: Who invented the light bulb?
+Answer: Thomas Edison
+
+Trivia Question: What season comes after summer?
+Answer: Fall
+
+Trivia Question: How many days are there in a year?
+Answer: 365
+
+Trivia Question: How many rings make up the symbol for the Olympic Games?
+Answer: 5
+
+Trivia Question: How many months are there in a year?
+Answer: 12
+
+Trivia Question: What are on the stems of roses?
+Answer: Thorns
+
+Trivia Question: What do Dalmatians have on their fur?
+Answer: Spots
+
+Trivia Question: How many strings are on a guitar?
+Answer: 6
+
+Trivia Question: Who painted the Mona Lisa?
+Answer: Leonardo da Vinci
+
+Trivia Question: How many seasons are there in a year?
+Answer: 4
+
+Trivia Question: How many weeks are there in a year?
+Answer: 52
+
+Trivia Question: What does ‘mph’ stand for?
+Answer: Miles per hour
+
+Trivia Question: Where does Dracula live?
+Answer: Transylvania
+
+Trivia Question: How many keys are on a piano?
+Answer: 88
+
+Trivia Question: Traditionally, how many Wonders of the World are there?
+Answer: 7
+
+Trivia Question: How many strings does a violin have?
+Answer: 4
+
+Trivia Question: In Greek mythology, who turned all that he touched into gold?
+Answer: Mitas
+
+Trivia Question: How many wheels does a school bus have?
+Answer: 6
+
+Trivia Question: What is the national bird of the U.S.A.
+Answer: Bald Eagle
+
+Trivia Question: What color cat has a reputation for being bad luck?
+Answer: Black cat
+
+Trivia Question: Which animal is known as “man’s best friend”?
+Answer: Dogs
+
+Trivia Question: If this animal poops on you, you will supposedly have good luck.
+Answer: Bird
+
+Trivia Question: What is the name of a bird’s home?
+Answer: A nest
+
+Trivia Question: The sunsets in which direction?
+Answer: West
+
+Trivia Question: The sun rises from which direction?
+Answer: East
+
+Trivia Question: What color is the absence of color?
+Answer: Black
+
+Trivia Question: Is white considered a color?
+Answer: Yes
+
+Trivia Question: What is said to be the most neutral color?
+Answer: Green
+
+Trivia Question: In which country were the Olympics first held in 1896?
+Answer: Greece
